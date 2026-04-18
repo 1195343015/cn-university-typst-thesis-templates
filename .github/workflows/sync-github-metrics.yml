@@ -1,0 +1,42 @@
+name: Sync GitHub Metrics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Sync repository metrics
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: ./scripts/sync_github_metrics.ps1
+
+      - name: Commit and push changes
+        shell: bash
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git add README.md data/universities.json
+          git commit -m "chore: sync GitHub metrics"
+          git push
