@@ -1,4 +1,4 @@
-﻿# cn-university-typst-thesis-templates
+# cn-university-typst-thesis-templates
 
 中国内地高校学位论文 Typst 模板收录。
 
@@ -32,16 +32,17 @@
 | 哈尔滨工业大学 | [hitszosa/universal-hit-thesis](https://github.com/hitszosa/universal-hit-thesis) | 本科 / 硕士 / 博士 | 52 | 2026-04-08 |
 | 东南大学 | [csimide/SEU-Typst-Template](https://github.com/csimide/SEU-Typst-Template) | 本科 / 硕士 / 博士 | 43 | 2025-07-21 |
 | 同济大学 | [TJ-CSCCG/tongji-undergrad-thesis-typst](https://github.com/TJ-CSCCG/tongji-undergrad-thesis-typst) | 本科 | 39 | 2025-12-07 |
+| 西北工业大学 | [1195343015/modern-npu-thesis](https://github.com/1195343015/modern-npu-thesis) | 本科 / 硕士 / 博士 | 30 | 2026-04-18 |
 | 复旦大学 | [fudan-kit/fudan-typst-thesis](https://github.com/fudan-kit/fudan-typst-thesis) | 本科 / 硕士 / 博士 | 24 | 2026-03-19 |
 | 中国地质大学（武汉） | [Rsweater/cug-thesis-typst](https://github.com/Rsweater/cug-thesis-typst) | 本科 / 硕士 / 博士 | 22 | 2025-04-21 |
 | 北京理工大学 | [Ri-Nai/BIT-Typst-Template](https://github.com/Ri-Nai/BIT-Typst-Template) | 本科 | 19 | 2025-11-18 |
 | 山东大学 | [GrooveWJH/unofficial-sdu-thesis](https://github.com/GrooveWJH/unofficial-sdu-thesis) | 本科 | 17 | 2025-05-27 |
 | 中国农业大学 | [JWangL5/CAU-ThesisTemplate-Typst](https://github.com/JWangL5/CAU-ThesisTemplate-Typst) | 本科 / 硕士 / 博士 | 15 | 2025-04-08 |
-| 西北工业大学 | [1195343015/modern-npu-thesis](https://github.com/1195343015/modern-npu-thesis) | 本科 / 硕士 / 博士 | 14 | 2026-04-18 |
-| 武汉大学 | [Hithereland/whu-typst-template](https://github.com/Hithereland/whu-typst-template) | 本科 | 12 | 2025-05-15 |
 | 中国科学院大学 | [Vncntvx/modern-ucas-thesis](https://github.com/Vncntvx/modern-ucas-thesis) | 硕士 / 博士 | 12 | 2026-03-17 |
+| 武汉大学 | [Hithereland/whu-typst-template](https://github.com/Hithereland/whu-typst-template) | 本科 | 12 | 2025-05-15 |
 | 华侨大学 | [aBER0724/HQU-Thesis-Typst-Template](https://github.com/aBER0724/HQU-Thesis-Typst-Template) | 本科 | 10 | 2025-05-28 |
 <!-- END:repo-table -->
+
 
 
 
