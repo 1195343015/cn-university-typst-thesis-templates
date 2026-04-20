@@ -27,12 +27,12 @@
 | 南京大学 | [nju-lug/modern-nju-thesis](https://github.com/nju-lug/modern-nju-thesis) | 本科 / 硕士 / 博士 | 236 | 2026-04-07 |
 | 北京大学 | [lucifer1004/pkuthss-typst](https://github.com/lucifer1004/pkuthss-typst) | 本科 / 硕士 / 博士 | 149 | 2026-04-04 |
 | 北京邮电大学 | [QQKdeGit/bupt-typst](https://github.com/QQKdeGit/bupt-typst) | 本科 | 94 | 2024-01-13 |
-| 上海大学 | [shuosc/SHU-Bachelor-Thesis-Typst](https://github.com/shuosc/SHU-Bachelor-Thesis-Typst) | 本科 | 92 | 2025-12-05 |
-| 西安电子科技大学 | [Hubert9982/typst_xdutemplate](https://github.com/Hubert9982/typst_xdutemplate) | 本科 | 86 | 2025-05-30 |
+| 上海大学 | [shuosc/SHU-Bachelor-Thesis-Typst](https://github.com/shuosc/SHU-Bachelor-Thesis-Typst) | 本科 | 93 | 2025-12-05 |
+| 西安电子科技大学 | [Hubert9982/typst_xdutemplate](https://github.com/Hubert9982/typst_xdutemplate) | 本科 | 87 | 2025-05-30 |
 | 哈尔滨工业大学 | [hitszosa/universal-hit-thesis](https://github.com/hitszosa/universal-hit-thesis) | 本科 / 硕士 / 博士 | 52 | 2026-04-08 |
 | 东南大学 | [csimide/SEU-Typst-Template](https://github.com/csimide/SEU-Typst-Template) | 本科 / 硕士 / 博士 | 43 | 2025-07-21 |
 | 同济大学 | [TJ-CSCCG/tongji-undergrad-thesis-typst](https://github.com/TJ-CSCCG/tongji-undergrad-thesis-typst) | 本科 | 39 | 2025-12-07 |
-| 西北工业大学 | [1195343015/modern-npu-thesis](https://github.com/1195343015/modern-npu-thesis) | 本科 / 硕士 / 博士 | 30 | 2026-04-18 |
+| 西北工业大学 | [1195343015/modern-npu-thesis](https://github.com/1195343015/modern-npu-thesis) | 本科 / 硕士 / 博士 | 34 | 2026-04-19 |
 | 复旦大学 | [fudan-kit/fudan-typst-thesis](https://github.com/fudan-kit/fudan-typst-thesis) | 本科 / 硕士 / 博士 | 24 | 2026-03-19 |
 | 中国地质大学（武汉） | [Rsweater/cug-thesis-typst](https://github.com/Rsweater/cug-thesis-typst) | 本科 / 硕士 / 博士 | 22 | 2025-04-21 |
 | 北京理工大学 | [Ri-Nai/BIT-Typst-Template](https://github.com/Ri-Nai/BIT-Typst-Template) | 本科 | 19 | 2025-11-18 |
@@ -42,6 +42,7 @@
 | 武汉大学 | [Hithereland/whu-typst-template](https://github.com/Hithereland/whu-typst-template) | 本科 | 12 | 2025-05-15 |
 | 华侨大学 | [aBER0724/HQU-Thesis-Typst-Template](https://github.com/aBER0724/HQU-Thesis-Typst-Template) | 本科 | 10 | 2025-05-28 |
 <!-- END:repo-table -->
+
 
 
 
