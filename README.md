@@ -29,8 +29,8 @@
 | 上海大学 | [shuosc/SHU-Bachelor-Thesis-Typst](https://github.com/shuosc/SHU-Bachelor-Thesis-Typst) | 本科 | 100 | 2025-12-05 |
 | 北京邮电大学 | [QQKdeGit/bupt-typst](https://github.com/QQKdeGit/bupt-typst) | 本科 | 95 | 2024-01-13 |
 | 西安电子科技大学 | [Hubert9982/typst_xdutemplate](https://github.com/Hubert9982/typst_xdutemplate) | 本科 | 89 | 2026-04-23 |
-| 哈尔滨工业大学 | [hitszosa/universal-hit-thesis](https://github.com/hitszosa/universal-hit-thesis) | 本科 / 硕士 / 博士 | 52 | 2026-04-08 |
-| 西北工业大学 | [1195343015/modern-npu-thesis](https://github.com/1195343015/modern-npu-thesis) | 本科 / 硕士 / 博士 | 52 | 2026-04-26 |
+| 西北工业大学 | [1195343015/modern-npu-thesis](https://github.com/1195343015/modern-npu-thesis) | 本科 / 硕士 / 博士 | 55 | 2026-04-28 |
+| 哈尔滨工业大学 | [hitszosa/universal-hit-thesis](https://github.com/hitszosa/universal-hit-thesis) | 本科 / 硕士 / 博士 | 53 | 2026-04-08 |
 | 东南大学 | [csimide/SEU-Typst-Template](https://github.com/csimide/SEU-Typst-Template) | 本科 / 硕士 / 博士 | 43 | 2025-07-21 |
 | 同济大学 | [TJ-CSCCG/tongji-undergrad-thesis-typst](https://github.com/TJ-CSCCG/tongji-undergrad-thesis-typst) | 本科 | 40 | 2025-12-07 |
 | 复旦大学 | [fudan-kit/fudan-typst-thesis](https://github.com/fudan-kit/fudan-typst-thesis) | 本科 / 硕士 / 博士 | 25 | 2026-03-19 |
@@ -42,6 +42,7 @@
 | 武汉大学 | [Hithereland/whu-typst-template](https://github.com/Hithereland/whu-typst-template) | 本科 | 12 | 2025-05-15 |
 | 华侨大学 | [aBER0724/HQU-Thesis-Typst-Template](https://github.com/aBER0724/HQU-Thesis-Typst-Template) | 本科 | 10 | 2025-05-28 |
 <!-- END:repo-table -->
+
 
 
 
