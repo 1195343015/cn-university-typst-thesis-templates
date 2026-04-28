@@ -6,6 +6,7 @@ $readmePath = Join-Path $root "README.md"
 $beginMarker = "<!-- BEGIN:repo-table -->"
 $endMarker = "<!-- END:repo-table -->"
 $minStars = 10
+$tableMinStars = 16
 $minLastCommitAt = [DateTime]"2024-01-01T00:00:00Z"
 
 $labelUndergraduate = ([char]0x672C).ToString() + ([char]0x79D1)
@@ -94,6 +95,9 @@ $retainedSchools | ConvertTo-Json -Depth 100 | Set-Content $dataPath -Encoding U
 
 $rows = foreach ($school in $retainedSchools) {
     foreach ($template in $school.templates) {
+        if ([int]$template.github_metrics.stars -lt $tableMinStars) {
+            continue
+        }
         [pscustomobject]@{
             school_name_zh = $school.school_name_zh
             repo = $template.repo
