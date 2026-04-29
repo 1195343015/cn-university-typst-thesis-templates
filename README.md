@@ -26,12 +26,12 @@
 | 华中科技大学 | [werifu/HUST-typst-template](https://github.com/werifu/HUST-typst-template) | 本科 | 237 | 2025-06-16 |
 | 南京大学 | [nju-lug/modern-nju-thesis](https://github.com/nju-lug/modern-nju-thesis) | 本科 / 硕士 / 博士 | 237 | 2026-04-07 |
 | 北京大学 | [lucifer1004/pkuthss-typst](https://github.com/lucifer1004/pkuthss-typst) | 本科 / 硕士 / 博士 | 151 | 2026-04-04 |
-| 上海大学 | [shuosc/SHU-Bachelor-Thesis-Typst](https://github.com/shuosc/SHU-Bachelor-Thesis-Typst) | 本科 | 100 | 2025-12-05 |
+| 上海大学 | [shuosc/SHU-Bachelor-Thesis-Typst](https://github.com/shuosc/SHU-Bachelor-Thesis-Typst) | 本科 | 101 | 2025-12-05 |
 | 北京邮电大学 | [QQKdeGit/bupt-typst](https://github.com/QQKdeGit/bupt-typst) | 本科 | 95 | 2024-01-13 |
 | 西安电子科技大学 | [Hubert9982/typst_xdutemplate](https://github.com/Hubert9982/typst_xdutemplate) | 本科 | 89 | 2026-04-23 |
 | 上海交通大学 | [sjtug/modern-sjtu-thesis](https://github.com/sjtug/modern-sjtu-thesis) | 本科 / 硕士 / 博士 | 75 | 2026-04-20 |
-| 西北工业大学 | [1195343015/modern-npu-thesis](https://github.com/1195343015/modern-npu-thesis) | 本科 / 硕士 / 博士 | 55 | 2026-04-28 |
-| 哈尔滨工业大学 | [hitszosa/universal-hit-thesis](https://github.com/hitszosa/universal-hit-thesis) | 本科 / 硕士 / 博士 | 53 | 2026-04-08 |
+| 西北工业大学 | [1195343015/modern-npu-thesis](https://github.com/1195343015/modern-npu-thesis) | 本科 / 硕士 / 博士 | 55 | 2026-04-29 |
+| 哈尔滨工业大学 | [hitszosa/universal-hit-thesis](https://github.com/hitszosa/universal-hit-thesis) | 本科 / 硕士 / 博士 | 54 | 2026-04-08 |
 | 浙江大学 | [Shuenhoy/modern-zju-thesis](https://github.com/Shuenhoy/modern-zju-thesis) | 本科 / 硕士 / 博士 | 51 | 2026-03-31 |
 | 东南大学 | [csimide/SEU-Typst-Template](https://github.com/csimide/SEU-Typst-Template) | 本科 / 硕士 / 博士 | 43 | 2025-07-21 |
 | 同济大学 | [TJ-CSCCG/tongji-undergrad-thesis-typst](https://github.com/TJ-CSCCG/tongji-undergrad-thesis-typst) | 本科 | 40 | 2025-12-07 |
@@ -43,7 +43,9 @@
 | 中国人民大学 | [ruc-thesis/modern-ruc-thesis](https://github.com/ruc-thesis/modern-ruc-thesis) | 本科 | 21 | 2026-03-16 |
 | 北京理工大学 | [Ri-Nai/BIT-Typst-Template](https://github.com/Ri-Nai/BIT-Typst-Template) | 本科 | 20 | 2025-11-18 |
 | 山东大学 | [GrooveWJH/unofficial-sdu-thesis](https://github.com/GrooveWJH/unofficial-sdu-thesis) | 本科 | 17 | 2025-05-27 |
+| 中国农业大学 | [JWangL5/CAU-ThesisTemplate-Typst](https://github.com/JWangL5/CAU-ThesisTemplate-Typst) | 本科 / 硕士 / 博士 | 16 | 2025-04-08 |
 <!-- END:repo-table -->
+
 
 
 
