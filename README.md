@@ -1,4 +1,4 @@
-﻿# cn-university-typst-thesis-templates
+# cn-university-typst-thesis-templates
 
 中国内地高校学位论文 Typst 模板收录。
 
@@ -44,6 +44,7 @@
 ## 收录说明
 
 表中的 `Stars` 和 `最近提交` 由脚本自动同步，可以手动运行 `scripts/sync_github_metrics.ps1` 刷新。当前仓库收录并不保证全面，未出现在列表中的学校或模板不代表不存在，只表示尚未纳入当前数据集。若同一学校同一学位存在多个可选模板，原则上优先保留当前更活跃的一项。
+
 
 
 

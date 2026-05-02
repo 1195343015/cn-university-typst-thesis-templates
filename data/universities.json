@@ -1,491 +1,491 @@
-﻿[
-    {
-        "school_id":  "pku",
-        "school_name_zh":  "北京大学",
-        "templates":  [
-                          {
-                              "repo":  "lucifer1004/pkuthss-typst",
-                              "degree_types":  [
-                                                   "undergraduate",
-                                                   "master",
-                                                   "doctoral"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  151,
-                                                     "last_commit_at":  "2026-04-04T05:19:23Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "bit",
-        "school_name_zh":  "北京理工大学",
-        "templates":  [
-                          {
-                              "repo":  "Ri-Nai/BIT-Typst-Template",
-                              "degree_types":  [
-                                                   "undergraduate"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  20,
-                                                     "last_commit_at":  "2025-11-18T14:32:11Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "bupt",
-        "school_name_zh":  "北京邮电大学",
-        "templates":  [
-                          {
-                              "repo":  "FA555/bupt-upt",
-                              "degree_types":  [
-                                                   "undergraduate"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  15,
-                                                     "last_commit_at":  "2026-04-26T17:14:28Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "cau",
-        "school_name_zh":  "中国农业大学",
-        "templates":  [
-                          {
-                              "repo":  "JWangL5/CAU-ThesisTemplate-Typst",
-                              "degree_types":  [
-                                                   "undergraduate",
-                                                   "master",
-                                                   "doctoral"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  16,
-                                                     "last_commit_at":  "2025-04-08T17:15:27Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "tongji",
-        "school_name_zh":  "同济大学",
-        "templates":  [
-                          {
-                              "repo":  "TJ-CSCCG/tongji-undergrad-thesis-typst",
-                              "degree_types":  [
-                                                   "undergraduate"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  40,
-                                                     "last_commit_at":  "2025-12-07T19:24:42Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "shu",
-        "school_name_zh":  "上海大学",
-        "templates":  [
-                          {
-                              "repo":  "shuosc/SHU-Bachelor-Thesis-Typst",
-                              "degree_types":  [
-                                                   "undergraduate"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  101,
-                                                     "last_commit_at":  "2025-12-05T08:21:24Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "nju",
-        "school_name_zh":  "南京大学",
-        "templates":  [
-                          {
-                              "repo":  "nju-lug/modern-nju-thesis",
-                              "degree_types":  [
-                                                   "undergraduate",
-                                                   "master",
-                                                   "doctoral"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  237,
-                                                     "last_commit_at":  "2026-04-07T12:38:07Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "nwpu",
-        "school_name_zh":  "西北工业大学",
-        "templates":  [
-                          {
-                              "repo":  "1195343015/modern-npu-thesis",
-                              "degree_types":  [
-                                                   "undergraduate",
-                                                   "master",
-                                                   "doctoral"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  58,
-                                                     "last_commit_at":  "2026-05-01T08:46:11Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "seu",
-        "school_name_zh":  "东南大学",
-        "templates":  [
-                          {
-                              "repo":  "csimide/SEU-Typst-Template",
-                              "degree_types":  [
-                                                   "undergraduate",
-                                                   "master",
-                                                   "doctoral"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  43,
-                                                     "last_commit_at":  "2025-07-21T14:12:25Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "fudan",
-        "school_name_zh":  "复旦大学",
-        "templates":  [
-                          {
-                              "repo":  "fudan-kit/fudan-typst-thesis",
-                              "degree_types":  [
-                                                   "undergraduate",
-                                                   "master",
-                                                   "doctoral"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  25,
-                                                     "last_commit_at":  "2026-03-19T08:00:07Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "whu",
-        "school_name_zh":  "武汉大学",
-        "templates":  [
-                          {
-                              "repo":  "Hithereland/whu-typst-template",
-                              "degree_types":  [
-                                                   "undergraduate"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  12,
-                                                     "last_commit_at":  "2025-05-15T03:44:19Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "hqu",
-        "school_name_zh":  "华侨大学",
-        "templates":  [
-                          {
-                              "repo":  "aBER0724/HQU-Thesis-Typst-Template",
-                              "degree_types":  [
-                                                   "undergraduate"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  10,
-                                                     "last_commit_at":  "2025-05-28T13:12:55Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "hust",
-        "school_name_zh":  "华中科技大学",
-        "templates":  [
-                          {
-                              "repo":  "werifu/HUST-typst-template",
-                              "degree_types":  [
-                                                   "undergraduate"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  239,
-                                                     "last_commit_at":  "2025-06-16T14:12:45Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "hit",
-        "school_name_zh":  "哈尔滨工业大学",
-        "templates":  [
-                          {
-                              "repo":  "hitszosa/universal-hit-thesis",
-                              "degree_types":  [
-                                                   "undergraduate",
-                                                   "master",
-                                                   "doctoral"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  55,
-                                                     "last_commit_at":  "2026-04-08T10:57:44Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "sdu",
-        "school_name_zh":  "山东大学",
-        "templates":  [
-                          {
-                              "repo":  "GrooveWJH/unofficial-sdu-thesis",
-                              "degree_types":  [
-                                                   "undergraduate"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  18,
-                                                     "last_commit_at":  "2025-05-27T05:26:09Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "cug",
-        "school_name_zh":  "中国地质大学（武汉）",
-        "templates":  [
-                          {
-                              "repo":  "Rsweater/cug-thesis-typst",
-                              "degree_types":  [
-                                                   "undergraduate",
-                                                   "master",
-                                                   "doctoral"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  22,
-                                                     "last_commit_at":  "2025-04-21T15:22:02Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "ucas",
-        "school_name_zh":  "中国科学院大学",
-        "templates":  [
-                          {
-                              "repo":  "Vncntvx/modern-ucas-thesis",
-                              "degree_types":  [
-                                                   "master",
-                                                   "doctoral"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  12,
-                                                     "last_commit_at":  "2026-03-17T13:06:41Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "xidian",
-        "school_name_zh":  "西安电子科技大学",
-        "templates":  [
-                          {
-                              "repo":  "Hubert9982/typst_xdutemplate",
-                              "degree_types":  [
-                                                   "undergraduate"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  89,
-                                                     "last_commit_at":  "2026-04-23T11:58:10Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "sjtu",
-        "school_name_zh":  "上海交通大学",
-        "templates":  [
-                          {
-                              "repo":  "sjtug/modern-sjtu-thesis",
-                              "degree_types":  [
-                                                   "undergraduate",
-                                                   "master",
-                                                   "doctoral"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  75,
-                                                     "last_commit_at":  "2026-04-20T13:57:47Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "zju",
-        "school_name_zh":  "浙江大学",
-        "templates":  [
-                          {
-                              "repo":  "Shuenhoy/modern-zju-thesis",
-                              "degree_types":  [
-                                                   "undergraduate",
-                                                   "master",
-                                                   "doctoral"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  52,
-                                                     "last_commit_at":  "2026-03-31T12:07:21Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "sysu",
-        "school_name_zh":  "中山大学",
-        "templates":  [
-                          {
-                              "repo":  "sysu/better-thesis",
-                              "degree_types":  [
-                                                   "undergraduate",
-                                                   "master",
-                                                   "doctoral"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  34,
-                                                     "last_commit_at":  "2026-03-14T16:29:32Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "ecnu",
-        "school_name_zh":  "华东师范大学",
-        "templates":  [
-                          {
-                              "repo":  "jtchen2k/modern-ecnu-thesis",
-                              "degree_types":  [
-                                                   "undergraduate",
-                                                   "master",
-                                                   "doctoral"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  26,
-                                                     "last_commit_at":  "2025-09-19T02:31:41Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "uestc",
-        "school_name_zh":  "电子科技大学",
-        "templates":  [
-                          {
-                              "repo":  "uestc-typst/thesis-template",
-                              "degree_types":  [
-                                                   "undergraduate",
-                                                   "master",
-                                                   "doctoral"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  23,
-                                                     "last_commit_at":  "2026-03-29T04:57:00Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "ruc",
-        "school_name_zh":  "中国人民大学",
-        "templates":  [
-                          {
-                              "repo":  "ruc-thesis/modern-ruc-thesis",
-                              "degree_types":  [
-                                                   "undergraduate"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  21,
-                                                     "last_commit_at":  "2026-03-16T03:36:28Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "scu",
-        "school_name_zh":  "四川大学",
-        "templates":  [
-                          {
-                              "repo":  "The-Brotherhood-of-SCU/SCU-typst-template",
-                              "degree_types":  [
-                                                   "undergraduate"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  15,
-                                                     "last_commit_at":  "2025-05-22T10:06:20Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "szu",
-        "school_name_zh":  "深圳大学",
-        "templates":  [
-                          {
-                              "repo":  "yjdyamv/modern-szu-thesis",
-                              "degree_types":  [
-                                                   "undergraduate",
-                                                   "master",
-                                                   "doctoral"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  13,
-                                                     "last_commit_at":  "2026-04-05T05:54:12Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    },
-    {
-        "school_id":  "buaa",
-        "school_name_zh":  "北京航空航天大学",
-        "templates":  [
-                          {
-                              "repo":  "wangjq4214/buaa-thesis",
-                              "degree_types":  [
-                                                   "master",
-                                                   "doctoral"
-                                               ],
-                              "github_metrics":  {
-                                                     "stars":  12,
-                                                     "last_commit_at":  "2026-04-13T09:30:14Z",
-                                                     "last_synced_at":  "2026-05-02T05:35:25Z"
-                                                 }
-                          }
-                      ]
-    }
+[
+  {
+    "school_id": "pku",
+    "school_name_zh": "北京大学",
+    "templates": [
+      {
+        "repo": "lucifer1004/pkuthss-typst",
+        "degree_types": [
+          "undergraduate",
+          "master",
+          "doctoral"
+        ],
+        "github_metrics": {
+          "stars": 151,
+          "last_commit_at": "2026-04-04T05:19:23Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "bit",
+    "school_name_zh": "北京理工大学",
+    "templates": [
+      {
+        "repo": "Ri-Nai/BIT-Typst-Template",
+        "degree_types": [
+          "undergraduate"
+        ],
+        "github_metrics": {
+          "stars": 20,
+          "last_commit_at": "2025-11-18T14:32:11Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "bupt",
+    "school_name_zh": "北京邮电大学",
+    "templates": [
+      {
+        "repo": "FA555/bupt-upt",
+        "degree_types": [
+          "undergraduate"
+        ],
+        "github_metrics": {
+          "stars": 15,
+          "last_commit_at": "2026-04-26T17:14:28Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "cau",
+    "school_name_zh": "中国农业大学",
+    "templates": [
+      {
+        "repo": "JWangL5/CAU-ThesisTemplate-Typst",
+        "degree_types": [
+          "undergraduate",
+          "master",
+          "doctoral"
+        ],
+        "github_metrics": {
+          "stars": 16,
+          "last_commit_at": "2025-04-08T17:15:27Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "tongji",
+    "school_name_zh": "同济大学",
+    "templates": [
+      {
+        "repo": "TJ-CSCCG/tongji-undergrad-thesis-typst",
+        "degree_types": [
+          "undergraduate"
+        ],
+        "github_metrics": {
+          "stars": 40,
+          "last_commit_at": "2025-12-07T19:24:42Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "shu",
+    "school_name_zh": "上海大学",
+    "templates": [
+      {
+        "repo": "shuosc/SHU-Bachelor-Thesis-Typst",
+        "degree_types": [
+          "undergraduate"
+        ],
+        "github_metrics": {
+          "stars": 101,
+          "last_commit_at": "2025-12-05T08:21:24Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "nju",
+    "school_name_zh": "南京大学",
+    "templates": [
+      {
+        "repo": "nju-lug/modern-nju-thesis",
+        "degree_types": [
+          "undergraduate",
+          "master",
+          "doctoral"
+        ],
+        "github_metrics": {
+          "stars": 237,
+          "last_commit_at": "2026-04-07T12:38:07Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "nwpu",
+    "school_name_zh": "西北工业大学",
+    "templates": [
+      {
+        "repo": "1195343015/modern-npu-thesis",
+        "degree_types": [
+          "undergraduate",
+          "master",
+          "doctoral"
+        ],
+        "github_metrics": {
+          "stars": 58,
+          "last_commit_at": "2026-05-01T08:46:11Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "seu",
+    "school_name_zh": "东南大学",
+    "templates": [
+      {
+        "repo": "csimide/SEU-Typst-Template",
+        "degree_types": [
+          "undergraduate",
+          "master",
+          "doctoral"
+        ],
+        "github_metrics": {
+          "stars": 43,
+          "last_commit_at": "2025-07-21T14:12:25Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "fudan",
+    "school_name_zh": "复旦大学",
+    "templates": [
+      {
+        "repo": "fudan-kit/fudan-typst-thesis",
+        "degree_types": [
+          "undergraduate",
+          "master",
+          "doctoral"
+        ],
+        "github_metrics": {
+          "stars": 25,
+          "last_commit_at": "2026-03-19T08:00:07Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "whu",
+    "school_name_zh": "武汉大学",
+    "templates": [
+      {
+        "repo": "Hithereland/whu-typst-template",
+        "degree_types": [
+          "undergraduate"
+        ],
+        "github_metrics": {
+          "stars": 12,
+          "last_commit_at": "2025-05-15T03:44:19Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "hqu",
+    "school_name_zh": "华侨大学",
+    "templates": [
+      {
+        "repo": "aBER0724/HQU-Thesis-Typst-Template",
+        "degree_types": [
+          "undergraduate"
+        ],
+        "github_metrics": {
+          "stars": 10,
+          "last_commit_at": "2025-05-28T13:12:55Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "hust",
+    "school_name_zh": "华中科技大学",
+    "templates": [
+      {
+        "repo": "werifu/HUST-typst-template",
+        "degree_types": [
+          "undergraduate"
+        ],
+        "github_metrics": {
+          "stars": 239,
+          "last_commit_at": "2025-06-16T14:12:45Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "hit",
+    "school_name_zh": "哈尔滨工业大学",
+    "templates": [
+      {
+        "repo": "hitszosa/universal-hit-thesis",
+        "degree_types": [
+          "undergraduate",
+          "master",
+          "doctoral"
+        ],
+        "github_metrics": {
+          "stars": 55,
+          "last_commit_at": "2026-04-08T10:57:44Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "sdu",
+    "school_name_zh": "山东大学",
+    "templates": [
+      {
+        "repo": "GrooveWJH/unofficial-sdu-thesis",
+        "degree_types": [
+          "undergraduate"
+        ],
+        "github_metrics": {
+          "stars": 18,
+          "last_commit_at": "2025-05-27T05:26:09Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "cug",
+    "school_name_zh": "中国地质大学（武汉）",
+    "templates": [
+      {
+        "repo": "Rsweater/cug-thesis-typst",
+        "degree_types": [
+          "undergraduate",
+          "master",
+          "doctoral"
+        ],
+        "github_metrics": {
+          "stars": 22,
+          "last_commit_at": "2025-04-21T15:22:02Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "ucas",
+    "school_name_zh": "中国科学院大学",
+    "templates": [
+      {
+        "repo": "Vncntvx/modern-ucas-thesis",
+        "degree_types": [
+          "master",
+          "doctoral"
+        ],
+        "github_metrics": {
+          "stars": 12,
+          "last_commit_at": "2026-03-17T13:06:41Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "xidian",
+    "school_name_zh": "西安电子科技大学",
+    "templates": [
+      {
+        "repo": "Hubert9982/typst_xdutemplate",
+        "degree_types": [
+          "undergraduate"
+        ],
+        "github_metrics": {
+          "stars": 89,
+          "last_commit_at": "2026-04-23T11:58:10Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "sjtu",
+    "school_name_zh": "上海交通大学",
+    "templates": [
+      {
+        "repo": "sjtug/modern-sjtu-thesis",
+        "degree_types": [
+          "undergraduate",
+          "master",
+          "doctoral"
+        ],
+        "github_metrics": {
+          "stars": 75,
+          "last_commit_at": "2026-04-20T13:57:47Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "zju",
+    "school_name_zh": "浙江大学",
+    "templates": [
+      {
+        "repo": "Shuenhoy/modern-zju-thesis",
+        "degree_types": [
+          "undergraduate",
+          "master",
+          "doctoral"
+        ],
+        "github_metrics": {
+          "stars": 52,
+          "last_commit_at": "2026-03-31T12:07:21Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "sysu",
+    "school_name_zh": "中山大学",
+    "templates": [
+      {
+        "repo": "sysu/better-thesis",
+        "degree_types": [
+          "undergraduate",
+          "master",
+          "doctoral"
+        ],
+        "github_metrics": {
+          "stars": 34,
+          "last_commit_at": "2026-03-14T16:29:32Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "ecnu",
+    "school_name_zh": "华东师范大学",
+    "templates": [
+      {
+        "repo": "jtchen2k/modern-ecnu-thesis",
+        "degree_types": [
+          "undergraduate",
+          "master",
+          "doctoral"
+        ],
+        "github_metrics": {
+          "stars": 26,
+          "last_commit_at": "2025-09-19T02:31:41Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "uestc",
+    "school_name_zh": "电子科技大学",
+    "templates": [
+      {
+        "repo": "uestc-typst/thesis-template",
+        "degree_types": [
+          "undergraduate",
+          "master",
+          "doctoral"
+        ],
+        "github_metrics": {
+          "stars": 23,
+          "last_commit_at": "2026-03-29T04:57:00Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "ruc",
+    "school_name_zh": "中国人民大学",
+    "templates": [
+      {
+        "repo": "ruc-thesis/modern-ruc-thesis",
+        "degree_types": [
+          "undergraduate"
+        ],
+        "github_metrics": {
+          "stars": 21,
+          "last_commit_at": "2026-03-16T03:36:28Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "scu",
+    "school_name_zh": "四川大学",
+    "templates": [
+      {
+        "repo": "The-Brotherhood-of-SCU/SCU-typst-template",
+        "degree_types": [
+          "undergraduate"
+        ],
+        "github_metrics": {
+          "stars": 15,
+          "last_commit_at": "2025-05-22T10:06:20Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "szu",
+    "school_name_zh": "深圳大学",
+    "templates": [
+      {
+        "repo": "yjdyamv/modern-szu-thesis",
+        "degree_types": [
+          "undergraduate",
+          "master",
+          "doctoral"
+        ],
+        "github_metrics": {
+          "stars": 13,
+          "last_commit_at": "2026-04-05T05:54:12Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  },
+  {
+    "school_id": "buaa",
+    "school_name_zh": "北京航空航天大学",
+    "templates": [
+      {
+        "repo": "wangjq4214/buaa-thesis",
+        "degree_types": [
+          "master",
+          "doctoral"
+        ],
+        "github_metrics": {
+          "stars": 12,
+          "last_commit_at": "2026-04-13T09:30:14Z",
+          "last_synced_at": "2026-05-02T05:43:42Z"
+        }
+      }
+    ]
+  }
 ]
