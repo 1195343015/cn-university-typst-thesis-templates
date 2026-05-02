@@ -49,6 +49,17 @@
           "last_commit_at": "2024-01-13T09:19:20Z",
           "last_synced_at": "2026-05-01T06:22:29Z"
         }
+      },
+      {
+        "repo": "FA555/bupt-upt",
+        "degree_types": [
+          "undergraduate"
+        ],
+        "github_metrics": {
+          "stars": 14,
+          "last_commit_at": "2026-04-26T17:14:28Z",
+          "last_synced_at": "2026-05-02T00:00:00Z"
+        }
       }
     ]
   },
