@@ -7,7 +7,7 @@ $beginMarker = "<!-- BEGIN:repo-table -->"
 $endMarker = "<!-- END:repo-table -->"
 $minStars = 10
 $tableMinStars = 16
-$minLastCommitAt = [DateTime]"2024-01-01T00:00:00Z"
+$minLastCommitAt = [DateTime]"2025-01-01T00:00:00Z"
 
 $labelUndergraduate = ([char]0x672C).ToString() + ([char]0x79D1)
 $labelMaster = ([char]0x7855).ToString() + ([char]0x58EB)
