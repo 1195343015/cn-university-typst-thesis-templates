@@ -6,12 +6,12 @@
 | 学校 | 仓库 | 学位类型 | Stars | 最近提交 |
 | --- | --- | --- | ---: | --- |
 | 华中科技大学 | [werifu/HUST-typst-template](https://github.com/werifu/HUST-typst-template) | 本科 | 240 | 2025-06-16 |
-| 南京大学 | [nju-lug/modern-nju-thesis](https://github.com/nju-lug/modern-nju-thesis) | 本科 / 硕士 / 博士 | 238 | 2026-05-10 |
-| 北京大学 | [lucifer1004/pkuthss-typst](https://github.com/lucifer1004/pkuthss-typst) | 本科 / 硕士 / 博士 | 156 | 2026-04-04 |
+| 南京大学 | [nju-lug/modern-nju-thesis](https://github.com/nju-lug/modern-nju-thesis) | 本科 / 硕士 / 博士 | 239 | 2026-05-10 |
+| 北京大学 | [lucifer1004/pkuthss-typst](https://github.com/lucifer1004/pkuthss-typst) | 本科 / 硕士 / 博士 | 157 | 2026-04-04 |
 | 上海大学 | [shuosc/SHU-Bachelor-Thesis-Typst](https://github.com/shuosc/SHU-Bachelor-Thesis-Typst) | 本科 | 107 | 2025-12-05 |
 | 西安电子科技大学 | [Hubert9982/typst_xdutemplate](https://github.com/Hubert9982/typst_xdutemplate) | 本科 | 91 | 2026-05-05 |
 | 上海交通大学 | [sjtug/modern-sjtu-thesis](https://github.com/sjtug/modern-sjtu-thesis) | 本科 / 硕士 / 博士 | 76 | 2026-04-20 |
-| 西北工业大学 | [1195343015/modern-npu-thesis](https://github.com/1195343015/modern-npu-thesis) | 本科 / 硕士 / 博士 | 71 | 2026-05-11 |
+| 西北工业大学 | [1195343015/modern-npu-thesis](https://github.com/1195343015/modern-npu-thesis) | 本科 / 硕士 / 博士 | 73 | 2026-05-13 |
 | 浙江大学 | [Shuenhoy/modern-zju-thesis](https://github.com/Shuenhoy/modern-zju-thesis) | 本科 / 硕士 / 博士 | 57 | 2026-03-31 |
 | 哈尔滨工业大学 | [hitszosa/universal-hit-thesis](https://github.com/hitszosa/universal-hit-thesis) | 本科 / 硕士 / 博士 | 56 | 2026-04-08 |
 | 东南大学 | [csimide/SEU-Typst-Template](https://github.com/csimide/SEU-Typst-Template) | 本科 / 硕士 / 博士 | 43 | 2025-07-21 |
@@ -23,7 +23,7 @@
 | 中国人民大学 | [ruc-thesis/modern-ruc-thesis](https://github.com/ruc-thesis/modern-ruc-thesis) | 本科 | 22 | 2026-03-16 |
 | 中国地质大学（武汉） | [Rsweater/cug-thesis-typst](https://github.com/Rsweater/cug-thesis-typst) | 本科 / 硕士 / 博士 | 22 | 2025-04-21 |
 | 北京理工大学 | [Ri-Nai/BIT-Typst-Template](https://github.com/Ri-Nai/BIT-Typst-Template) | 本科 | 20 | 2025-11-18 |
-| 山东大学 | [GrooveWJH/unofficial-sdu-thesis](https://github.com/GrooveWJH/unofficial-sdu-thesis) | 本科 | 19 | 2025-05-27 |
+| 山东大学 | [GrooveWJH/unofficial-sdu-thesis](https://github.com/GrooveWJH/unofficial-sdu-thesis) | 本科 | 19 | 2026-05-12 |
 | 中国农业大学 | [JWangL5/CAU-ThesisTemplate-Typst](https://github.com/JWangL5/CAU-ThesisTemplate-Typst) | 本科 / 硕士 / 博士 | 16 | 2025-04-08 |
 | 北京邮电大学 | [FA555/bupt-upt](https://github.com/FA555/bupt-upt) | 本科 | 16 | 2026-04-26 |
 <!-- END:repo-table -->
@@ -45,6 +45,7 @@
 ## 收录说明
 
 表中的 `Stars` 和 `最近提交` 由脚本自动同步，可以手动运行 `scripts/sync_github_metrics.ps1` 刷新。当前仓库收录并不保证全面，未出现在列表中的学校或模板不代表不存在，只表示尚未纳入当前数据集。若同一学校同一学位存在多个可选模板，原则上优先保留当前更活跃的一项。
+
 
 
 
