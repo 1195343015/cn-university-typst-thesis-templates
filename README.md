@@ -10,7 +10,7 @@
 | 北京大学 | [lucifer1004/pkuthss-typst](https://github.com/lucifer1004/pkuthss-typst) | 本科 / 硕士 / 博士 | 156 | 2026-04-04 |
 | 上海大学 | [shuosc/SHU-Bachelor-Thesis-Typst](https://github.com/shuosc/SHU-Bachelor-Thesis-Typst) | 本科 | 109 | 2025-12-05 |
 | 西安电子科技大学 | [Hubert9982/typst_xdutemplate](https://github.com/Hubert9982/typst_xdutemplate) | 本科 | 90 | 2026-05-17 |
-| 西北工业大学 | [1195343015/modern-npu-thesis](https://github.com/1195343015/modern-npu-thesis) | 本科 / 硕士 / 博士 | 85 | 2026-05-19 |
+| 西北工业大学 | [1195343015/modern-npu-thesis](https://github.com/1195343015/modern-npu-thesis) | 本科 / 硕士 / 博士 | 86 | 2026-05-20 |
 | 浙江大学 | [Shuenhoy/modern-zju-thesis](https://github.com/Shuenhoy/modern-zju-thesis) | 本科 / 硕士 / 博士 | 81 | 2026-05-13 |
 | 上海交通大学 | [sjtug/modern-sjtu-thesis](https://github.com/sjtug/modern-sjtu-thesis) | 本科 / 硕士 / 博士 | 77 | 2026-04-20 |
 | 哈尔滨工业大学 | [hitszosa/universal-hit-thesis](https://github.com/hitszosa/universal-hit-thesis) | 本科 / 硕士 / 博士 | 56 | 2026-04-08 |
@@ -19,7 +19,7 @@
 | 中山大学 | [sysu/better-thesis](https://github.com/sysu/better-thesis) | 本科 / 硕士 / 博士 | 34 | 2026-05-18 |
 | 华东师范大学 | [jtchen2k/modern-ecnu-thesis](https://github.com/jtchen2k/modern-ecnu-thesis) | 本科 / 硕士 / 博士 | 26 | 2025-09-19 |
 | 复旦大学 | [fudan-kit/fudan-typst-thesis](https://github.com/fudan-kit/fudan-typst-thesis) | 本科 / 硕士 / 博士 | 25 | 2026-03-19 |
-| 清华大学 | [chillcicada/tntt](https://github.com/chillcicada/tntt) | 本科 / 硕士 / 博士 | 24 | 2026-05-11 |
+| 清华大学 | [chillcicada/tntt](https://github.com/chillcicada/tntt) | 本科 / 硕士 / 博士 | 24 | 2026-05-19 |
 | 电子科技大学 | [uestc-typst/thesis-template](https://github.com/uestc-typst/thesis-template) | 本科 / 硕士 / 博士 | 24 | 2026-03-29 |
 | 中国人民大学 | [ruc-thesis/modern-ruc-thesis](https://github.com/ruc-thesis/modern-ruc-thesis) | 本科 | 23 | 2026-03-16 |
 | 中国地质大学（武汉） | [Rsweater/cug-thesis-typst](https://github.com/Rsweater/cug-thesis-typst) | 本科 / 硕士 / 博士 | 22 | 2025-04-21 |
@@ -46,6 +46,7 @@
 ## 收录说明
 
 表中的 `Stars` 和 `最近提交` 由脚本自动同步，可以手动运行 `scripts/sync_github_metrics.ps1` 刷新。当前仓库收录并不保证全面，未出现在列表中的学校或模板不代表不存在，只表示尚未纳入当前数据集。若同一学校同一学位存在多个可选模板，原则上优先保留当前更活跃的一项。
+
 
 
 
