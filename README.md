@@ -18,9 +18,9 @@
 | 同济大学 | [TJ-CSCCG/tongji-undergrad-thesis-typst](https://github.com/TJ-CSCCG/tongji-undergrad-thesis-typst) | 本科 | 40 | 2026-05-25 |
 | 中山大学 | [sysu/better-thesis](https://github.com/sysu/better-thesis) | 本科 / 硕士 / 博士 | 35 | 2026-06-16 |
 | 华东师范大学 | [jtchen2k/modern-ecnu-thesis](https://github.com/jtchen2k/modern-ecnu-thesis) | 本科 / 硕士 / 博士 | 27 | 2025-09-19 |
-| 复旦大学 | [fudan-kit/fudan-typst-thesis](https://github.com/fudan-kit/fudan-typst-thesis) | 本科 / 硕士 / 博士 | 26 | 2026-03-19 |
+| 复旦大学 | [fudan-kit/fudan-typst-thesis](https://github.com/fudan-kit/fudan-typst-thesis) | 本科 / 硕士 / 博士 | 27 | 2026-03-19 |
 | 清华大学 | [chillcicada/tntt](https://github.com/chillcicada/tntt) | 本科 / 硕士 / 博士 | 25 | 2026-06-25 |
-| 电子科技大学 | [uestc-typst/thesis-template](https://github.com/uestc-typst/thesis-template) | 本科 / 硕士 / 博士 | 25 | 2026-06-29 |
+| 电子科技大学 | [uestc-typst/thesis-template](https://github.com/uestc-typst/thesis-template) | 本科 / 硕士 / 博士 | 25 | 2026-07-01 |
 | 中国人民大学 | [ruc-thesis/modern-ruc-thesis](https://github.com/ruc-thesis/modern-ruc-thesis) | 本科 | 24 | 2026-06-05 |
 | 中国地质大学（武汉） | [Rsweater/cug-thesis-typst](https://github.com/Rsweater/cug-thesis-typst) | 本科 / 硕士 / 博士 | 22 | 2025-04-21 |
 | 山东大学 | [GrooveWJH/unofficial-sdu-thesis](https://github.com/GrooveWJH/unofficial-sdu-thesis) | 本科 | 22 | 2026-05-12 |
@@ -46,6 +46,7 @@
 ## 收录说明
 
 表中的 `Stars` 和 `最近提交` 由脚本自动同步，可以手动运行 `scripts/sync_github_metrics.ps1` 刷新。当前仓库收录并不保证全面，未出现在列表中的学校或模板不代表不存在，只表示尚未纳入当前数据集。若同一学校同一学位存在多个可选模板，原则上优先保留当前更活跃的一项。
+
 
 
 
