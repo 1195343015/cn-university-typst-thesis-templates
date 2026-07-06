@@ -14,7 +14,7 @@
 | 西安电子科技大学 | [Hubert9982/typst_xdutemplate](https://github.com/Hubert9982/typst_xdutemplate) | 本科 | 90 | 2026-05-17 |
 | 上海交通大学 | [sjtug/modern-sjtu-thesis](https://github.com/sjtug/modern-sjtu-thesis) | 本科 / 硕士 / 博士 | 81 | 2026-04-20 |
 | 哈尔滨工业大学 | [hitszosa/universal-hit-thesis](https://github.com/hitszosa/universal-hit-thesis) | 本科 / 硕士 / 博士 | 61 | 2026-04-08 |
-| 东南大学 | [csimide/SEU-Typst-Template](https://github.com/csimide/SEU-Typst-Template) | 本科 / 硕士 / 博士 | 45 | 2025-07-21 |
+| 东南大学 | [csimide/SEU-Typst-Template](https://github.com/csimide/SEU-Typst-Template) | 本科 / 硕士 / 博士 | 46 | 2025-07-21 |
 | 同济大学 | [TJ-CSCCG/tongji-undergrad-thesis-typst](https://github.com/TJ-CSCCG/tongji-undergrad-thesis-typst) | 本科 | 40 | 2026-05-25 |
 | 中山大学 | [sysu/better-thesis](https://github.com/sysu/better-thesis) | 本科 / 硕士 / 博士 | 35 | 2026-06-16 |
 | 华东师范大学 | [jtchen2k/modern-ecnu-thesis](https://github.com/jtchen2k/modern-ecnu-thesis) | 本科 / 硕士 / 博士 | 27 | 2025-09-19 |
@@ -46,6 +46,7 @@
 ## 收录说明
 
 表中的 `Stars` 和 `最近提交` 由脚本自动同步，可以手动运行 `scripts/sync_github_metrics.ps1` 刷新。当前仓库收录并不保证全面，未出现在列表中的学校或模板不代表不存在，只表示尚未纳入当前数据集。若同一学校同一学位存在多个可选模板，原则上优先保留当前更活跃的一项。
+
 
 
 
