@@ -7,10 +7,10 @@
 | --- | --- | --- | ---: | --- |
 | 华中科技大学 | [werifu/HUST-typst-template](https://github.com/werifu/HUST-typst-template) | 本科 | 241 | 2025-06-16 |
 | 南京大学 | [nju-lug/modern-nju-thesis](https://github.com/nju-lug/modern-nju-thesis) | 本科 / 硕士 / 博士 | 240 | 2026-05-10 |
-| 北京大学 | [lucifer1004/pkuthss-typst](https://github.com/lucifer1004/pkuthss-typst) | 本科 / 硕士 / 博士 | 159 | 2026-04-04 |
+| 北京大学 | [lucifer1004/pkuthss-typst](https://github.com/lucifer1004/pkuthss-typst) | 本科 / 硕士 / 博士 | 160 | 2026-04-04 |
 | 上海大学 | [shuosc/SHU-Bachelor-Thesis-Typst](https://github.com/shuosc/SHU-Bachelor-Thesis-Typst) | 本科 | 112 | 2025-12-05 |
 | 西北工业大学 | [1195343015/modern-npu-thesis](https://github.com/1195343015/modern-npu-thesis) | 本科 / 硕士 / 博士 | 107 | 2026-06-19 |
-| 浙江大学 | [Shuenhoy/modern-zju-thesis](https://github.com/Shuenhoy/modern-zju-thesis) | 本科 / 硕士 / 博士 | 104 | 2026-05-13 |
+| 浙江大学 | [Shuenhoy/modern-zju-thesis](https://github.com/Shuenhoy/modern-zju-thesis) | 本科 / 硕士 / 博士 | 105 | 2026-05-13 |
 | 西安电子科技大学 | [Hubert9982/typst_xdutemplate](https://github.com/Hubert9982/typst_xdutemplate) | 本科 | 90 | 2026-05-17 |
 | 上海交通大学 | [sjtug/modern-sjtu-thesis](https://github.com/sjtug/modern-sjtu-thesis) | 本科 / 硕士 / 博士 | 81 | 2026-04-20 |
 | 哈尔滨工业大学 | [hitszosa/universal-hit-thesis](https://github.com/hitszosa/universal-hit-thesis) | 本科 / 硕士 / 博士 | 61 | 2026-04-08 |
@@ -46,6 +46,7 @@
 ## 收录说明
 
 表中的 `Stars` 和 `最近提交` 由脚本自动同步，可以手动运行 `scripts/sync_github_metrics.ps1` 刷新。当前仓库收录并不保证全面，未出现在列表中的学校或模板不代表不存在，只表示尚未纳入当前数据集。若同一学校同一学位存在多个可选模板，原则上优先保留当前更活跃的一项。
+
 
 
 
