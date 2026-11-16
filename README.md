@@ -28,6 +28,7 @@
 | 山东大学 | [GrooveWJH/unofficial-sdu-thesis](https://github.com/GrooveWJH/unofficial-sdu-thesis) | 本科 | 22 | 2026-09-19 |
 | 中国农业大学 | [JWangL5/CAU-ThesisTemplate-Typst](https://github.com/JWangL5/CAU-ThesisTemplate-Typst) | 本科 / 硕士 / 博士 | 19 | 2025-04-08 |
 | 北京航空航天大学 | [wangjq4214/buaa-thesis](https://github.com/wangjq4214/buaa-thesis) | 硕士 / 博士 | 19 | 2026-11-10 |
+| 四川大学 | [The-Brotherhood-of-SCU/SCU-typst-template](https://github.com/The-Brotherhood-of-SCU/SCU-typst-template) | 本科 | 16 | 2025-05-22 |
 <!-- END:repo-table -->
 
 这是一个面向中国内地高校的 GitHub 托管 Typst 学位论文模板索引项目。
@@ -47,6 +48,7 @@
 ## 收录说明
 
 表中的 `Stars` 和 `最近提交` 由脚本自动同步，可以手动运行 `scripts/sync_github_metrics.ps1` 刷新。当前仓库收录并不保证全面，未出现在列表中的学校或模板不代表不存在，只表示尚未纳入当前数据集。若同一学校同一学位存在多个可选模板，原则上优先保留当前更活跃的一项。
+
 
 
 
