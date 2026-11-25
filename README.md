@@ -18,14 +18,14 @@
 | 同济大学 | [TJ-CSCCG/tongji-undergrad-thesis-typst](https://github.com/TJ-CSCCG/tongji-undergrad-thesis-typst) | 本科 | 41 | 2026-05-25 |
 | 清华大学 | [chillcicada/tntt](https://github.com/chillcicada/tntt) | 本科 / 硕士 / 博士 | 38 | 2026-11-03 |
 | 中山大学 | [sysu/better-thesis](https://github.com/sysu/better-thesis) | 本科 / 硕士 / 博士 | 37 | 2026-06-16 |
-| 复旦大学 | [fudan-kit/fudan-typst-thesis](https://github.com/fudan-kit/fudan-typst-thesis) | 本科 / 硕士 / 博士 | 31 | 2026-08-24 |
+| 复旦大学 | [fudan-kit/fudan-typst-thesis](https://github.com/fudan-kit/fudan-typst-thesis) | 本科 / 硕士 / 博士 | 32 | 2026-08-24 |
 | 华东师范大学 | [jtchen2k/modern-ecnu-thesis](https://github.com/jtchen2k/modern-ecnu-thesis) | 本科 / 硕士 / 博士 | 30 | 2025-09-19 |
 | 电子科技大学 | [uestc-typst/thesis-template](https://github.com/uestc-typst/thesis-template) | 本科 / 硕士 / 博士 | 29 | 2026-07-10 |
 | 中国人民大学 | [ruc-thesis/modern-ruc-thesis](https://github.com/ruc-thesis/modern-ruc-thesis) | 本科 | 27 | 2026-06-05 |
+| 山东大学 | [GrooveWJH/unofficial-sdu-thesis](https://github.com/GrooveWJH/unofficial-sdu-thesis) | 本科 | 24 | 2026-09-19 |
 | 中国地质大学（武汉） | [Rsweater/cug-thesis-typst](https://github.com/Rsweater/cug-thesis-typst) | 本科 / 硕士 / 博士 | 23 | 2025-04-21 |
 | 北京理工大学 | [Ri-Nai/BIT-Typst-Template](https://github.com/Ri-Nai/BIT-Typst-Template) | 本科 | 23 | 2025-11-18 |
-| 山东大学 | [GrooveWJH/unofficial-sdu-thesis](https://github.com/GrooveWJH/unofficial-sdu-thesis) | 本科 | 23 | 2026-09-19 |
-| 北京邮电大学 | [FA555/bupt-upt](https://github.com/FA555/bupt-upt) | 本科 | 22 | 2026-04-26 |
+| 北京邮电大学 | [FA555/bupt-upt](https://github.com/FA555/bupt-upt) | 本科 | 23 | 2026-04-26 |
 | 中国农业大学 | [JWangL5/CAU-ThesisTemplate-Typst](https://github.com/JWangL5/CAU-ThesisTemplate-Typst) | 本科 / 硕士 / 博士 | 19 | 2025-04-08 |
 | 北京航空航天大学 | [wangjq4214/buaa-thesis](https://github.com/wangjq4214/buaa-thesis) | 硕士 / 博士 | 19 | 2026-11-10 |
 | 四川大学 | [The-Brotherhood-of-SCU/SCU-typst-template](https://github.com/The-Brotherhood-of-SCU/SCU-typst-template) | 本科 | 16 | 2025-05-22 |
@@ -48,6 +48,7 @@
 ## 收录说明
 
 表中的 `Stars` 和 `最近提交` 由脚本自动同步，可以手动运行 `scripts/sync_github_metrics.ps1` 刷新。当前仓库收录并不保证全面，未出现在列表中的学校或模板不代表不存在，只表示尚未纳入当前数据集。若同一学校同一学位存在多个可选模板，原则上优先保留当前更活跃的一项。
+
 
 
 
